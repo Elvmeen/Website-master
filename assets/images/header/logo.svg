@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="166px" height="38px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1324 306"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:7}
+    .str1 {stroke:#A9ABAE;stroke-width:7}
+    .str2 {stroke:#3E4095;stroke-width:7}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#A9ABAE}
+    .fil2 {fill:#3E4095}
+    .fnt0 {font-weight:normal;font-size:292px;font-family:'Edo SZ'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.895444 0 0 1 -7027.65 -12086.4)">
+   <text x="8300" y="12347"  class="fil0 str0 fnt0">ELV</text>
+  </g>
+  <g transform="matrix(0.895444 0 0 1 -7027.65 -12086.4)">
+   <text x="8747" y="12347"  class="fil1 str1 fnt0"> </text>
+  </g>
+  <g transform="matrix(0.895444 0 0 1 -7027.65 -12086.4)">
+   <text x="8828" y="12347"  class="fil2 str2 fnt0">LAB</text>
+  </g>
+  <path class="fil2" d="M185 301c44,0 110,-33 110,-71 0,-23 -26,-61 -62,-27 -26,23 -57,25 -84,7 -54,-37 -30,-132 36,-132 43,0 48,32 68,32 13,0 21,1 31,-11 16,-19 12,-44 -2,-58 -3,-3 -9,-8 -12,-11 -23,-18 -49,-28 -75,-30l-16 0c-58,4 -112,46 -128,117 -20,96 50,184 134,184z"/>
+  <path class="fil2" d="M0 151c0,20 14,37 31,37l296 0c16,0 29,-17 31,-35l0 -5c-2,-17 -15,-34 -49,-34l-261 0c-26,0 -48,11 -48,37z"/>
+ </g>
+</svg>
